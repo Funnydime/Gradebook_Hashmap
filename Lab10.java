@@ -3,6 +3,6 @@ public class Lab10{
 		
 		Gradebook grades = new Gradebook();
 		
-		grade.menu();
+		grades.menu();
 	}
 }
